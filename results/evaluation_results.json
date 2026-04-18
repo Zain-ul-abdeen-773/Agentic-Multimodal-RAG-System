@@ -1,0 +1,100 @@
+{
+  "recall": {
+    "recall@1": 1.0,
+    "recall@5": 1.0,
+    "recall@10": 1.0
+  },
+  "mrr": 1.0,
+  "gmm": {
+    "n_components": 5,
+    "bic": 1442893.2473810525,
+    "aic": -1335393.26953125,
+    "cluster_sizes": {
+      "0": 112,
+      "1": 70,
+      "2": 160,
+      "3": 73,
+      "4": 85
+    },
+    "davies_bouldin": 3.230049647201908,
+    "silhouette": 0.0536506213247776
+  },
+  "dbscan": {
+    "n_clusters": 7,
+    "n_noise_points": 434,
+    "noise_ratio": 0.868,
+    "cluster_sizes": {
+      "0": 7,
+      "1": 5,
+      "2": 25,
+      "3": 8,
+      "4": 12,
+      "5": 5,
+      "6": 4
+    },
+    "davies_bouldin": 1.7048218570897193,
+    "silhouette": 0.16169506311416626
+  },
+  "anomalies": {
+    "isolation_forest": {
+      "n_anomalies": 20,
+      "anomaly_ratio": 0.1,
+      "mean_score": 0.015684307506007463,
+      "anomaly_indices": [
+        19,
+        42,
+        47,
+        65,
+        66,
+        85,
+        94,
+        97,
+        105,
+        119,
+        120,
+        133,
+        156,
+        157,
+        161,
+        170,
+        171,
+        188,
+        192,
+        193
+      ]
+    },
+    "one_class_svm": {
+      "n_anomalies": 22,
+      "anomaly_ratio": 0.11,
+      "mean_score": 0.28364397201455877,
+      "anomaly_indices": [
+        11,
+        20,
+        77,
+        85,
+        88,
+        94,
+        116,
+        120,
+        130,
+        131,
+        136,
+        149,
+        158,
+        161,
+        165,
+        166,
+        171,
+        179,
+        184,
+        192
+      ]
+    }
+  },
+  "rrf": {
+    "delta_rrf": 0.0,
+    "rrf_mrr": 1.0,
+    "best_single_mrr": 1.0,
+    "n_queries": 20
+  }
+}

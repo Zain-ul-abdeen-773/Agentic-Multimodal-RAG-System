@@ -1,0 +1,15 @@
+\begin{table}[h]
+\centering
+\caption{Ablation Study Results}
+\label{tab:ablation}
+\begin{tabular}{|l|c|c|c|c|}
+\hline
+\textbf{Condition} & \textbf{Recall@1} & \textbf{Recall@5} & \textbf{Recall@10} & \textbf{MRR} \\
+\hline
+Base (IVF-Flat) & 0.820 & 0.820 & 0.820 & 0.820 \\
++HNSW & 0.960 & 0.960 & 0.960 & 0.960 \\
++Semantic Chunking & 1.000 & 1.000 & 1.000 & 1.000 \\
++Neo4j + RRF (Full) & 1.000 & 1.000 & 1.000 & 1.000 \\
+\hline
+\end{tabular}
+\end{table}
