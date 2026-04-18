@@ -1,0 +1,87 @@
+Deep Learning Project  
+⦁	ArcFace loss Function
+⦁	Hungarian Algorithm
+⦁	Cosine Annealing LR
+⦁	AlexNet
+⦁	SENets
+⦁	Newton Method
+⦁	Resnets
+⦁	DenseNets
+⦁	GLoVE
+⦁	RAG
+⦁	BM25
+⦁	Siamese Networks
+⦁	Multihead Attention
+⦁	Contrastive Loss Fuction
+⦁	Gradient Checking
+⦁	Label Smoothing
+⦁	Kaiming,Xavier Initializatio
+⦁	Quantization Traning
+⦁	Lightning in pytorch
+⦁	BERT-Transformers
+⦁	Langchain & Langraphs
+⦁	AdamW Optimization
+⦁	SMOTE
+⦁	HNSW
+⦁	ColBERT
+⦁	ReciProcal Rank Fusion
+⦁	Batch Normalization
+⦁	Learning Rate Decay
+⦁	Optuna Or Keras-Tuner
+⦁	Bayes Optimal Error Rate
+⦁	Sobel,Scharr Filters
+⦁	Data Loaders
+⦁	Dynamic Embeddings
+⦁	T-Distributed Stochastic neighbour Embeddings
+⦁	DistillBERT
+⦁	SWIN
+⦁	DaVIT
+⦁	Profiling,Workers in Torch
+⦁	Gradient Accumulation
+⦁	Gradient Clipping
+⦁	Stochastic weight averaging
+⦁	Polyak Averaging
+⦁	Adagrad
+⦁	Adadelta
+⦁	Conjugate gradients optimization
+⦁	Continuation methods
+⦁	BFGS optimizer
+⦁	ResNext Architecure
+⦁	Nestrov momentum
+⦁	Transposed Filters
+⦁	Conditional Architectures
+⦁	Diffusion Models
+⦁	Causal Masks
+⦁	ONNX Exports
+⦁	Pruning
+⦁	PCA
+⦁	GraphSAGE
+⦁	KG`s for RAG
+⦁	Oneclass SVMs
+⦁	Local Outline Factor
+⦁	Isolated Forest
+⦁	DBScan
+⦁	Guassian Mixture Models
+⦁	BiLSTMS
+⦁	Liquid State machines
+⦁	Reinforcement Learning
+⦁	Bellman Equations
+⦁	Semantic Chunking
+⦁	Self Learning
+⦁	SSLU,AHerfReLU
+⦁	Rational Activation Function
+⦁	S4,S3 Activations
+⦁	Log-cosh Loss
+⦁	Geometric Difference Loss
+⦁	Symmetry graph nn,s
+⦁	LoRA
+⦁	Daves Bouldin Index
+⦁	Silber Schartz Score
+⦁	Spatial Transformers
+⦁	Gaia2
+⦁	Optical Flow
+⦁	Karman Filters
+⦁	SIFT,SURF,ORB
+⦁	Guassian/Laplacian Pyramids
+⦁	Fourier Transforms
+⦁	RANSAC

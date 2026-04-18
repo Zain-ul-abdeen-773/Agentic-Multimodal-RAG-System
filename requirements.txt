@@ -1,0 +1,88 @@
+# ============================================================
+# Agentic Multimodal RAG System — Dependencies
+# AI-341 Deep Neural Networks | GIK Institute
+# ============================================================
+
+# --- Core Deep Learning ---
+torch>=2.1.0
+torchvision>=0.16.0
+torchaudio>=2.1.0
+pytorch-lightning>=2.1.0
+
+# --- Transformers & NLP ---
+transformers>=4.36.0
+sentence-transformers>=2.2.2
+tokenizers>=0.15.0
+datasets>=2.16.0
+peft>=0.7.0                    # LoRA adapters
+
+# --- CLIP ---
+open-clip-torch>=2.24.0        # OpenCLIP for ViT-B/32
+
+# --- Vector Store & Retrieval ---
+faiss-cpu>=1.7.4               # FAISS with HNSW support (use faiss-gpu on Colab)
+chromadb>=0.4.22               # Metadata store
+rank-bm25>=0.2.2               # BM25 sparse retrieval
+
+# --- Knowledge Graph ---
+neo4j>=5.15.0                  # Neo4j Python driver
+spacy>=3.7.0                   # NER pipeline
+
+# --- Agent Framework ---
+langchain>=0.1.0
+langchain-community>=0.0.10
+langchain-core>=0.1.10
+langgraph>=0.0.20              # LangGraph state machine
+langchain-groq>=0.0.1          # Groq LLM backend
+
+# --- VLM ---
+# BLIP-2 comes via transformers
+# LLaVA via Ollama (external)
+
+# --- Hyperparameter Tuning ---
+optuna>=3.5.0
+optuna-dashboard>=0.14.0       # Optional: web UI for Optuna
+
+# --- Embeddings & Dimensionality Reduction ---
+scikit-learn>=1.3.0            # PCA, t-SNE, DBSCAN, GMM, IsolationForest, SVM
+umap-learn>=0.5.5              # Alternative to t-SNE
+
+# --- Evaluation ---
+bert-score>=0.3.13             # BERTScore for VLM answer quality
+rouge-score>=0.1.2
+nltk>=3.8.1
+
+# --- Data Processing ---
+Pillow>=10.0.0
+pymupdf>=1.23.0                # PDF parsing
+unstructured>=0.12.0           # Document partitioning
+
+# --- Gradio UI ---
+gradio>=4.10.0
+
+# --- Model Export & Optimization ---
+onnx>=1.15.0
+onnxruntime>=1.16.0
+
+# --- Graph Neural Networks ---
+torch-geometric>=2.4.0         # GraphSAGE
+
+# --- Utilities ---
+python-dotenv>=1.0.0
+tqdm>=4.66.0
+numpy>=1.24.0
+pandas>=2.1.0
+matplotlib>=3.8.0
+seaborn>=0.13.0
+rich>=13.7.0                   # Pretty console output
+loguru>=0.7.2                  # Structured logging
+pyyaml>=6.0.1
+requests>=2.31.0
+scipy>=1.11.0
+
+# --- SMOTE for data balancing ---
+imbalanced-learn>=0.11.0
+
+# --- Testing ---
+pytest>=7.4.0
+pytest-cov>=4.1.0
