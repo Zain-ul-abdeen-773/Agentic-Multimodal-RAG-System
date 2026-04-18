@@ -454,7 +454,7 @@ class SemanticChunker:
         perplexity = min(30, len(embeddings) - 1)
         tsne = TSNE(
             n_components=2, perplexity=perplexity,
-            random_state=42, n_iter=1000,
+            random_state=42, max_iter=1000,
         )
         coords = tsne.fit_transform(embeddings)
         

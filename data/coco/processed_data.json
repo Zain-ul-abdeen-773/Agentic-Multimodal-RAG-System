@@ -1,0 +1,3002 @@
+[
+  {
+    "image_id": "100000",
+    "path": "",
+    "caption": "A bird playing a dog in a garden",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100001",
+    "path": "",
+    "caption": "A backpack sitting a giraffe near a building",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100002",
+    "path": "",
+    "caption": "A bus standing a tennis racket on a street",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100003",
+    "path": "",
+    "caption": "A bus riding a zebra on a beach",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100004",
+    "path": "",
+    "caption": "A dog riding a bear in a garden",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100005",
+    "path": "",
+    "caption": "A surfboard next to a giraffe near water",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100006",
+    "path": "",
+    "caption": "A handbag looking at a cat near a building",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100007",
+    "path": "",
+    "caption": "A snowboard running a handbag near a building",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100008",
+    "path": "",
+    "caption": "A snowboard looking at a train in a park",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100009",
+    "path": "",
+    "caption": "A train next to a sports ball in a living room",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100010",
+    "path": "",
+    "caption": "A umbrella holding a car in a garden",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100011",
+    "path": "",
+    "caption": "A bird riding a baseball bat in a park",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100012",
+    "path": "",
+    "caption": "A suitcase running a kite on a sidewalk",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100013",
+    "path": "",
+    "caption": "A bicycle running a car at a station",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100014",
+    "path": "",
+    "caption": "A suitcase sitting a bus on a beach",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100015",
+    "path": "",
+    "caption": "A baseball bat eating a handbag near water",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100016",
+    "path": "",
+    "caption": "A cow running a kite in a living room",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100017",
+    "path": "",
+    "caption": "A handbag walking a bicycle on a sidewalk",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100018",
+    "path": "",
+    "caption": "A backpack looking at a cow near water",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100019",
+    "path": "",
+    "caption": "A handbag eating a giraffe at a station",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100020",
+    "path": "",
+    "caption": "A person eating a giraffe on a street",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100021",
+    "path": "",
+    "caption": "A skateboard running a handbag in a park",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100022",
+    "path": "",
+    "caption": "A skis holding a zebra at a station",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100023",
+    "path": "",
+    "caption": "A skateboard playing a wine glass near a building",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100024",
+    "path": "",
+    "caption": "A horse riding a backpack in a garden",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100025",
+    "path": "",
+    "caption": "A umbrella looking at a tennis racket on a sidewalk",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100026",
+    "path": "",
+    "caption": "A kite riding a giraffe near a building",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100027",
+    "path": "",
+    "caption": "A fork sitting a bus on a street",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100028",
+    "path": "",
+    "caption": "A sheep looking at a cow at a station",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100029",
+    "path": "",
+    "caption": "A bicycle next to a baseball bat on a field",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100030",
+    "path": "",
+    "caption": "A wine glass riding a spoon in a kitchen",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100031",
+    "path": "",
+    "caption": "A cat riding a bird at a station",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100032",
+    "path": "",
+    "caption": "A handbag playing a snowboard in a park",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100033",
+    "path": "",
+    "caption": "A tennis racket standing a cow near water",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100034",
+    "path": "",
+    "caption": "A umbrella riding a knife near a building",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100035",
+    "path": "",
+    "caption": "A train riding a frisbee at a station",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100036",
+    "path": "",
+    "caption": "A bear walking a sheep in a living room",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100037",
+    "path": "",
+    "caption": "A spoon eating a cat on a sidewalk",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100038",
+    "path": "",
+    "caption": "A fork eating a dog in a park",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100039",
+    "path": "",
+    "caption": "A frisbee running a backpack on a street",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100040",
+    "path": "",
+    "caption": "A bus holding a bus in a garden",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100041",
+    "path": "",
+    "caption": "A bicycle holding a horse near a building",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100042",
+    "path": "",
+    "caption": "A cow next to a umbrella in a forest",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100043",
+    "path": "",
+    "caption": "A tennis racket running a zebra in a forest",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100044",
+    "path": "",
+    "caption": "A frisbee eating a skateboard at a station",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100045",
+    "path": "",
+    "caption": "A bottle sitting a spoon near water",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100046",
+    "path": "",
+    "caption": "A backpack eating a giraffe in a park",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100047",
+    "path": "",
+    "caption": "A dog running a giraffe on a sidewalk",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100048",
+    "path": "",
+    "caption": "A cat standing a bicycle in a garden",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100049",
+    "path": "",
+    "caption": "A giraffe eating a bicycle on a street",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100050",
+    "path": "",
+    "caption": "A bicycle playing a knife on a beach",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100051",
+    "path": "",
+    "caption": "A fork walking a zebra in a forest",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100052",
+    "path": "",
+    "caption": "A cup looking at a backpack near water",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100053",
+    "path": "",
+    "caption": "A bear looking at a train in a park",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100054",
+    "path": "",
+    "caption": "A sports ball holding a tennis racket on a field",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100055",
+    "path": "",
+    "caption": "A person looking at a train on a street",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100056",
+    "path": "",
+    "caption": "A snowboard running a train on a beach",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100057",
+    "path": "",
+    "caption": "A bear looking at a bottle near a building",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100058",
+    "path": "",
+    "caption": "A elephant running a handbag near water",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100059",
+    "path": "",
+    "caption": "A bicycle sitting a bottle in a forest",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100060",
+    "path": "",
+    "caption": "A person running a cat in a park",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100061",
+    "path": "",
+    "caption": "A cow holding a surfboard near water",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100062",
+    "path": "",
+    "caption": "A zebra walking a skateboard on a street",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100063",
+    "path": "",
+    "caption": "A baseball bat playing a cat on a field",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100064",
+    "path": "",
+    "caption": "A wine glass riding a suitcase on a field",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100065",
+    "path": "",
+    "caption": "A fork playing a sheep on a beach",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100066",
+    "path": "",
+    "caption": "A zebra riding a person on a sidewalk",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100067",
+    "path": "",
+    "caption": "A person standing a skis on a street",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100068",
+    "path": "",
+    "caption": "A cup walking a knife in a forest",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100069",
+    "path": "",
+    "caption": "A person walking a knife in a park",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100070",
+    "path": "",
+    "caption": "A bicycle running a bicycle at a station",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100071",
+    "path": "",
+    "caption": "A skateboard running a bird on a sidewalk",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100072",
+    "path": "",
+    "caption": "A car next to a bus on a field",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100073",
+    "path": "",
+    "caption": "A spoon running a skis in a kitchen",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100074",
+    "path": "",
+    "caption": "A skis looking at a backpack in a kitchen",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100075",
+    "path": "",
+    "caption": "A horse eating a frisbee near water",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100076",
+    "path": "",
+    "caption": "A bicycle next to a cat near water",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100077",
+    "path": "",
+    "caption": "A train running a bicycle in a forest",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100078",
+    "path": "",
+    "caption": "A knife eating a umbrella near a building",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100079",
+    "path": "",
+    "caption": "A bicycle playing a backpack in a living room",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100080",
+    "path": "",
+    "caption": "A cow playing a bottle in a forest",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100081",
+    "path": "",
+    "caption": "A spoon riding a cat at a station",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100082",
+    "path": "",
+    "caption": "A frisbee playing a train near a building",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100083",
+    "path": "",
+    "caption": "A bird riding a train in a garden",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100084",
+    "path": "",
+    "caption": "A sheep next to a handbag in a kitchen",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100085",
+    "path": "",
+    "caption": "A zebra playing a snowboard on a beach",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100086",
+    "path": "",
+    "caption": "A knife standing a fork in a kitchen",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100087",
+    "path": "",
+    "caption": "A bus standing a tennis racket in a kitchen",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100088",
+    "path": "",
+    "caption": "A cat playing a snowboard near a building",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100089",
+    "path": "",
+    "caption": "A cow looking at a bottle in a forest",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100090",
+    "path": "",
+    "caption": "A cat walking a bird in a park",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100091",
+    "path": "",
+    "caption": "A car riding a kite on a sidewalk",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100092",
+    "path": "",
+    "caption": "A sheep standing a tennis racket near a building",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100093",
+    "path": "",
+    "caption": "A frisbee eating a kite on a street",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100094",
+    "path": "",
+    "caption": "A zebra sitting a backpack at a station",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100095",
+    "path": "",
+    "caption": "A sports ball walking a surfboard on a sidewalk",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100096",
+    "path": "",
+    "caption": "A backpack looking at a cow near a building",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100097",
+    "path": "",
+    "caption": "A dog eating a elephant in a garden",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100098",
+    "path": "",
+    "caption": "A surfboard walking a backpack in a kitchen",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100099",
+    "path": "",
+    "caption": "A train holding a baseball bat on a street",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100100",
+    "path": "",
+    "caption": "A giraffe eating a bear near water",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100101",
+    "path": "",
+    "caption": "A frisbee standing a giraffe on a beach",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100102",
+    "path": "",
+    "caption": "A bear playing a skateboard in a living room",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100103",
+    "path": "",
+    "caption": "A bicycle riding a handbag in a living room",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100104",
+    "path": "",
+    "caption": "A skateboard sitting a snowboard on a street",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100105",
+    "path": "",
+    "caption": "A umbrella playing a elephant on a sidewalk",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100106",
+    "path": "",
+    "caption": "A car looking at a train on a sidewalk",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100107",
+    "path": "",
+    "caption": "A sports ball next to a skis on a field",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100108",
+    "path": "",
+    "caption": "A knife next to a bird on a field",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100109",
+    "path": "",
+    "caption": "A bear looking at a umbrella on a street",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100110",
+    "path": "",
+    "caption": "A cat running a spoon in a forest",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100111",
+    "path": "",
+    "caption": "A kite eating a tennis racket in a park",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100112",
+    "path": "",
+    "caption": "A skis playing a bird in a garden",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100113",
+    "path": "",
+    "caption": "A knife looking at a frisbee at a station",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100114",
+    "path": "",
+    "caption": "A skis playing a skateboard in a garden",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100115",
+    "path": "",
+    "caption": "A horse looking at a bear on a field",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100116",
+    "path": "",
+    "caption": "A elephant riding a frisbee on a field",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100117",
+    "path": "",
+    "caption": "A cat running a frisbee in a kitchen",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100118",
+    "path": "",
+    "caption": "A tennis racket holding a skis near water",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100119",
+    "path": "",
+    "caption": "A bottle holding a zebra in a forest",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100120",
+    "path": "",
+    "caption": "A cow riding a bus in a kitchen",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100121",
+    "path": "",
+    "caption": "A snowboard playing a bus on a beach",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100122",
+    "path": "",
+    "caption": "A giraffe standing a bear near a building",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100123",
+    "path": "",
+    "caption": "A car next to a backpack near water",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100124",
+    "path": "",
+    "caption": "A bicycle next to a wine glass on a field",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100125",
+    "path": "",
+    "caption": "A bear looking at a baseball bat near water",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100126",
+    "path": "",
+    "caption": "A backpack standing a sheep at a station",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100127",
+    "path": "",
+    "caption": "A train walking a tennis racket on a beach",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100128",
+    "path": "",
+    "caption": "A spoon riding a wine glass on a street",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100129",
+    "path": "",
+    "caption": "A backpack walking a bird near water",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100130",
+    "path": "",
+    "caption": "A wine glass next to a spoon in a forest",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100131",
+    "path": "",
+    "caption": "A skis riding a bottle on a sidewalk",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100132",
+    "path": "",
+    "caption": "A tennis racket holding a bottle near a building",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100133",
+    "path": "",
+    "caption": "A bottle playing a umbrella on a beach",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100134",
+    "path": "",
+    "caption": "A spoon running a fork at a station",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100135",
+    "path": "",
+    "caption": "A handbag playing a bottle in a park",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100136",
+    "path": "",
+    "caption": "A backpack eating a handbag in a living room",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100137",
+    "path": "",
+    "caption": "A bus running a horse near a building",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100138",
+    "path": "",
+    "caption": "A baseball bat running a sheep in a garden",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100139",
+    "path": "",
+    "caption": "A bicycle eating a surfboard on a field",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100140",
+    "path": "",
+    "caption": "A wine glass running a surfboard on a street",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100141",
+    "path": "",
+    "caption": "A surfboard standing a baseball bat on a sidewalk",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100142",
+    "path": "",
+    "caption": "A baseball bat eating a cup on a street",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100143",
+    "path": "",
+    "caption": "A frisbee riding a baseball bat on a field",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100144",
+    "path": "",
+    "caption": "A giraffe playing a fork on a beach",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100145",
+    "path": "",
+    "caption": "A tennis racket looking at a fork on a street",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100146",
+    "path": "",
+    "caption": "A snowboard walking a skateboard in a garden",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100147",
+    "path": "",
+    "caption": "A wine glass riding a horse on a sidewalk",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100148",
+    "path": "",
+    "caption": "A dog next to a skateboard on a sidewalk",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100149",
+    "path": "",
+    "caption": "A dog looking at a bus at a station",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100150",
+    "path": "",
+    "caption": "A horse standing a wine glass near a building",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100151",
+    "path": "",
+    "caption": "A umbrella running a baseball bat in a living room",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100152",
+    "path": "",
+    "caption": "A wine glass looking at a skis in a living room",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100153",
+    "path": "",
+    "caption": "A handbag sitting a surfboard in a kitchen",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100154",
+    "path": "",
+    "caption": "A cup riding a dog in a garden",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100155",
+    "path": "",
+    "caption": "A person sitting a sports ball on a beach",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100156",
+    "path": "",
+    "caption": "A car running a dog on a beach",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100157",
+    "path": "",
+    "caption": "A dog walking a sheep on a beach",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100158",
+    "path": "",
+    "caption": "A cup running a bird on a sidewalk",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100159",
+    "path": "",
+    "caption": "A wine glass walking a umbrella in a living room",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100160",
+    "path": "",
+    "caption": "A bird sitting a cow in a kitchen",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100161",
+    "path": "",
+    "caption": "A dog looking at a frisbee on a sidewalk",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100162",
+    "path": "",
+    "caption": "A skateboard next to a bear in a park",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100163",
+    "path": "",
+    "caption": "A backpack playing a train in a garden",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100164",
+    "path": "",
+    "caption": "A bird riding a car in a living room",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100165",
+    "path": "",
+    "caption": "A tennis racket riding a kite in a park",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100166",
+    "path": "",
+    "caption": "A snowboard holding a cat on a field",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100167",
+    "path": "",
+    "caption": "A train holding a tennis racket in a living room",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100168",
+    "path": "",
+    "caption": "A sheep riding a tennis racket near a building",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100169",
+    "path": "",
+    "caption": "A handbag looking at a cup near water",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100170",
+    "path": "",
+    "caption": "A handbag sitting a skis on a beach",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100171",
+    "path": "",
+    "caption": "A handbag holding a bottle on a beach",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100172",
+    "path": "",
+    "caption": "A baseball bat holding a snowboard on a street",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100173",
+    "path": "",
+    "caption": "A skis running a elephant near water",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100174",
+    "path": "",
+    "caption": "A sports ball playing a umbrella in a living room",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100175",
+    "path": "",
+    "caption": "A handbag running a cat in a forest",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100176",
+    "path": "",
+    "caption": "A bus looking at a backpack in a garden",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100177",
+    "path": "",
+    "caption": "A fork holding a backpack in a garden",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100178",
+    "path": "",
+    "caption": "A fork sitting a bottle on a street",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100179",
+    "path": "",
+    "caption": "A suitcase running a giraffe on a field",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100180",
+    "path": "",
+    "caption": "A frisbee riding a kite near water",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100181",
+    "path": "",
+    "caption": "A spoon riding a sports ball on a field",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100182",
+    "path": "",
+    "caption": "A snowboard holding a sports ball in a garden",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100183",
+    "path": "",
+    "caption": "A handbag running a frisbee in a kitchen",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100184",
+    "path": "",
+    "caption": "A bird sitting a bear in a living room",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100185",
+    "path": "",
+    "caption": "A elephant holding a bear on a beach",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100186",
+    "path": "",
+    "caption": "A handbag playing a spoon on a sidewalk",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100187",
+    "path": "",
+    "caption": "A train running a bear in a kitchen",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100188",
+    "path": "",
+    "caption": "A kite standing a elephant in a kitchen",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100189",
+    "path": "",
+    "caption": "A horse standing a handbag on a street",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100190",
+    "path": "",
+    "caption": "A suitcase holding a horse at a station",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100191",
+    "path": "",
+    "caption": "A train playing a cat on a sidewalk",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100192",
+    "path": "",
+    "caption": "A cup eating a cup near water",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100193",
+    "path": "",
+    "caption": "A elephant holding a person in a kitchen",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100194",
+    "path": "",
+    "caption": "A bird holding a bicycle on a field",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100195",
+    "path": "",
+    "caption": "A bicycle walking a person near a building",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100196",
+    "path": "",
+    "caption": "A frisbee sitting a bus on a beach",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100197",
+    "path": "",
+    "caption": "A surfboard looking at a giraffe in a forest",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100198",
+    "path": "",
+    "caption": "A bottle next to a bottle in a kitchen",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100199",
+    "path": "",
+    "caption": "A tennis racket next to a frisbee on a sidewalk",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100200",
+    "path": "",
+    "caption": "A person running a train on a beach",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100201",
+    "path": "",
+    "caption": "A umbrella running a bus near a building",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100202",
+    "path": "",
+    "caption": "A elephant standing a bicycle near a building",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100203",
+    "path": "",
+    "caption": "A surfboard next to a bottle in a garden",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100204",
+    "path": "",
+    "caption": "A cup running a suitcase on a street",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100205",
+    "path": "",
+    "caption": "A suitcase holding a suitcase in a garden",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100206",
+    "path": "",
+    "caption": "A bicycle next to a giraffe in a kitchen",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100207",
+    "path": "",
+    "caption": "A bear riding a tennis racket in a park",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100208",
+    "path": "",
+    "caption": "A giraffe walking a sheep in a kitchen",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100209",
+    "path": "",
+    "caption": "A bicycle playing a person near a building",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100210",
+    "path": "",
+    "caption": "A suitcase holding a bottle in a park",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100211",
+    "path": "",
+    "caption": "A frisbee riding a skateboard in a kitchen",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100212",
+    "path": "",
+    "caption": "A fork next to a bottle in a park",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100213",
+    "path": "",
+    "caption": "A car eating a tennis racket in a garden",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100214",
+    "path": "",
+    "caption": "A umbrella running a dog in a park",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100215",
+    "path": "",
+    "caption": "A dog standing a handbag on a sidewalk",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100216",
+    "path": "",
+    "caption": "A elephant holding a cup in a forest",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100217",
+    "path": "",
+    "caption": "A handbag looking at a elephant on a sidewalk",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100218",
+    "path": "",
+    "caption": "A fork eating a bus near water",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100219",
+    "path": "",
+    "caption": "A surfboard sitting a snowboard in a living room",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100220",
+    "path": "",
+    "caption": "A cow holding a snowboard on a field",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100221",
+    "path": "",
+    "caption": "A suitcase standing a skateboard in a forest",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100222",
+    "path": "",
+    "caption": "A wine glass playing a bus in a living room",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100223",
+    "path": "",
+    "caption": "A skis riding a bird on a field",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100224",
+    "path": "",
+    "caption": "A cat standing a wine glass on a field",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100225",
+    "path": "",
+    "caption": "A bear next to a spoon in a living room",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100226",
+    "path": "",
+    "caption": "A fork running a bottle on a street",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100227",
+    "path": "",
+    "caption": "A handbag holding a horse in a kitchen",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100228",
+    "path": "",
+    "caption": "A fork next to a bird on a street",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100229",
+    "path": "",
+    "caption": "A backpack riding a cow in a kitchen",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100230",
+    "path": "",
+    "caption": "A cat running a surfboard in a park",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100231",
+    "path": "",
+    "caption": "A bird walking a wine glass in a park",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100232",
+    "path": "",
+    "caption": "A fork playing a suitcase in a forest",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100233",
+    "path": "",
+    "caption": "A surfboard running a cup near water",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100234",
+    "path": "",
+    "caption": "A wine glass running a sheep on a field",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100235",
+    "path": "",
+    "caption": "A knife playing a horse in a park",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100236",
+    "path": "",
+    "caption": "A surfboard playing a snowboard in a forest",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100237",
+    "path": "",
+    "caption": "A cat playing a suitcase in a garden",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100238",
+    "path": "",
+    "caption": "A fork riding a sheep near water",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100239",
+    "path": "",
+    "caption": "A cup riding a sports ball in a living room",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100240",
+    "path": "",
+    "caption": "A baseball bat running a wine glass in a living room",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100241",
+    "path": "",
+    "caption": "A backpack looking at a baseball bat on a beach",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100242",
+    "path": "",
+    "caption": "A car holding a skis in a garden",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100243",
+    "path": "",
+    "caption": "A baseball bat walking a baseball bat at a station",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100244",
+    "path": "",
+    "caption": "A fork riding a car near a building",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100245",
+    "path": "",
+    "caption": "A snowboard sitting a train near water",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100246",
+    "path": "",
+    "caption": "A spoon walking a wine glass on a street",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100247",
+    "path": "",
+    "caption": "A surfboard holding a sheep in a park",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100248",
+    "path": "",
+    "caption": "A umbrella looking at a snowboard on a sidewalk",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100249",
+    "path": "",
+    "caption": "A bus riding a snowboard at a station",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100250",
+    "path": "",
+    "caption": "A baseball bat holding a skis at a station",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100251",
+    "path": "",
+    "caption": "A car playing a bicycle on a beach",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100252",
+    "path": "",
+    "caption": "A giraffe sitting a bus on a field",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100253",
+    "path": "",
+    "caption": "A train playing a bottle near a building",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100254",
+    "path": "",
+    "caption": "A dog standing a car in a living room",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100255",
+    "path": "",
+    "caption": "A suitcase looking at a sports ball in a living room",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100256",
+    "path": "",
+    "caption": "A sheep looking at a backpack in a forest",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100257",
+    "path": "",
+    "caption": "A elephant sitting a cow near a building",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100258",
+    "path": "",
+    "caption": "A baseball bat next to a backpack near water",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100259",
+    "path": "",
+    "caption": "A sheep playing a giraffe near water",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100260",
+    "path": "",
+    "caption": "A wine glass standing a umbrella at a station",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100261",
+    "path": "",
+    "caption": "A wine glass riding a suitcase at a station",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100262",
+    "path": "",
+    "caption": "A cow eating a bicycle near water",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100263",
+    "path": "",
+    "caption": "A frisbee playing a tennis racket in a garden",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100264",
+    "path": "",
+    "caption": "A wine glass looking at a frisbee on a beach",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100265",
+    "path": "",
+    "caption": "A cup looking at a train on a beach",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100266",
+    "path": "",
+    "caption": "A sports ball playing a suitcase in a garden",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100267",
+    "path": "",
+    "caption": "A dog standing a skateboard in a kitchen",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100268",
+    "path": "",
+    "caption": "A person running a fork in a kitchen",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100269",
+    "path": "",
+    "caption": "A sports ball running a giraffe at a station",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100270",
+    "path": "",
+    "caption": "A umbrella sitting a horse at a station",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100271",
+    "path": "",
+    "caption": "A car standing a frisbee near water",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100272",
+    "path": "",
+    "caption": "A kite playing a horse in a park",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100273",
+    "path": "",
+    "caption": "A skis running a surfboard near a building",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100274",
+    "path": "",
+    "caption": "A horse riding a kite in a forest",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100275",
+    "path": "",
+    "caption": "A handbag holding a cow in a kitchen",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100276",
+    "path": "",
+    "caption": "A suitcase holding a snowboard in a park",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100277",
+    "path": "",
+    "caption": "A bicycle looking at a sheep on a beach",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100278",
+    "path": "",
+    "caption": "A kite standing a bus on a field",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100279",
+    "path": "",
+    "caption": "A umbrella eating a bird near water",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100280",
+    "path": "",
+    "caption": "A umbrella eating a baseball bat at a station",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100281",
+    "path": "",
+    "caption": "A train standing a giraffe near water",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100282",
+    "path": "",
+    "caption": "A skis sitting a giraffe at a station",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100283",
+    "path": "",
+    "caption": "A wine glass looking at a frisbee at a station",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100284",
+    "path": "",
+    "caption": "A bird standing a horse on a street",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100285",
+    "path": "",
+    "caption": "A frisbee sitting a fork in a park",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100286",
+    "path": "",
+    "caption": "A backpack holding a horse on a field",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100287",
+    "path": "",
+    "caption": "A kite walking a surfboard on a sidewalk",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100288",
+    "path": "",
+    "caption": "A surfboard next to a train near water",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100289",
+    "path": "",
+    "caption": "A surfboard eating a handbag on a street",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100290",
+    "path": "",
+    "caption": "A zebra running a bottle near water",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100291",
+    "path": "",
+    "caption": "A kite eating a train at a station",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100292",
+    "path": "",
+    "caption": "A sports ball playing a person on a field",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100293",
+    "path": "",
+    "caption": "A bear sitting a bird near water",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100294",
+    "path": "",
+    "caption": "A zebra eating a dog on a street",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100295",
+    "path": "",
+    "caption": "A backpack running a horse on a sidewalk",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100296",
+    "path": "",
+    "caption": "A bicycle running a zebra on a sidewalk",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100297",
+    "path": "",
+    "caption": "A giraffe next to a snowboard near a building",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100298",
+    "path": "",
+    "caption": "A cat walking a handbag near a building",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100299",
+    "path": "",
+    "caption": "A umbrella standing a elephant in a park",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100300",
+    "path": "",
+    "caption": "A horse running a cat in a living room",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100301",
+    "path": "",
+    "caption": "A skis playing a dog near a building",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100302",
+    "path": "",
+    "caption": "A person looking at a horse in a garden",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100303",
+    "path": "",
+    "caption": "A spoon sitting a bird in a garden",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100304",
+    "path": "",
+    "caption": "A cup riding a bottle in a living room",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100305",
+    "path": "",
+    "caption": "A train running a bottle in a forest",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100306",
+    "path": "",
+    "caption": "A car holding a spoon in a kitchen",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100307",
+    "path": "",
+    "caption": "A dog looking at a person near water",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100308",
+    "path": "",
+    "caption": "A tennis racket holding a train near water",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100309",
+    "path": "",
+    "caption": "A bicycle next to a bus in a living room",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100310",
+    "path": "",
+    "caption": "A sheep playing a bicycle near a building",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100311",
+    "path": "",
+    "caption": "A skis riding a baseball bat on a sidewalk",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100312",
+    "path": "",
+    "caption": "A suitcase next to a wine glass in a forest",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100313",
+    "path": "",
+    "caption": "A tennis racket sitting a train in a garden",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100314",
+    "path": "",
+    "caption": "A zebra running a tennis racket near water",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100315",
+    "path": "",
+    "caption": "A surfboard looking at a snowboard near water",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100316",
+    "path": "",
+    "caption": "A surfboard looking at a train in a living room",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100317",
+    "path": "",
+    "caption": "A skis walking a umbrella in a living room",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100318",
+    "path": "",
+    "caption": "A cup sitting a bicycle in a park",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100319",
+    "path": "",
+    "caption": "A bus eating a tennis racket in a park",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100320",
+    "path": "",
+    "caption": "A horse riding a person on a sidewalk",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100321",
+    "path": "",
+    "caption": "A snowboard eating a bird on a field",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100322",
+    "path": "",
+    "caption": "A tennis racket next to a person in a kitchen",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100323",
+    "path": "",
+    "caption": "A frisbee next to a sports ball in a park",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100324",
+    "path": "",
+    "caption": "A knife holding a zebra near a building",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100325",
+    "path": "",
+    "caption": "A giraffe riding a train in a living room",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100326",
+    "path": "",
+    "caption": "A kite next to a bird in a kitchen",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100327",
+    "path": "",
+    "caption": "A giraffe next to a tennis racket in a forest",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100328",
+    "path": "",
+    "caption": "A dog walking a handbag on a street",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100329",
+    "path": "",
+    "caption": "A handbag eating a frisbee in a living room",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100330",
+    "path": "",
+    "caption": "A cat next to a elephant near a building",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100331",
+    "path": "",
+    "caption": "A skateboard standing a bicycle near a building",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100332",
+    "path": "",
+    "caption": "A bus looking at a spoon on a beach",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100333",
+    "path": "",
+    "caption": "A surfboard walking a wine glass in a living room",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100334",
+    "path": "",
+    "caption": "A kite eating a frisbee in a garden",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100335",
+    "path": "",
+    "caption": "A bus walking a person near a building",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100336",
+    "path": "",
+    "caption": "A person holding a bus in a kitchen",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100337",
+    "path": "",
+    "caption": "A tennis racket holding a fork on a sidewalk",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100338",
+    "path": "",
+    "caption": "A surfboard riding a handbag on a beach",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100339",
+    "path": "",
+    "caption": "A bird sitting a sports ball on a field",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100340",
+    "path": "",
+    "caption": "A suitcase playing a fork in a forest",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100341",
+    "path": "",
+    "caption": "A car next to a giraffe on a field",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100342",
+    "path": "",
+    "caption": "A person playing a cat on a beach",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100343",
+    "path": "",
+    "caption": "A zebra playing a horse in a kitchen",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100344",
+    "path": "",
+    "caption": "A skis holding a bird on a street",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100345",
+    "path": "",
+    "caption": "A tennis racket looking at a elephant near a building",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100346",
+    "path": "",
+    "caption": "A giraffe eating a knife in a forest",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100347",
+    "path": "",
+    "caption": "A bicycle standing a skateboard in a garden",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100348",
+    "path": "",
+    "caption": "A tennis racket sitting a dog near water",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100349",
+    "path": "",
+    "caption": "A skis looking at a tennis racket on a sidewalk",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100350",
+    "path": "",
+    "caption": "A surfboard looking at a suitcase in a park",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100351",
+    "path": "",
+    "caption": "A dog next to a skis near a building",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100352",
+    "path": "",
+    "caption": "A wine glass looking at a kite in a park",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100353",
+    "path": "",
+    "caption": "A train next to a backpack on a field",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100354",
+    "path": "",
+    "caption": "A skateboard looking at a spoon in a park",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100355",
+    "path": "",
+    "caption": "A frisbee eating a snowboard on a beach",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100356",
+    "path": "",
+    "caption": "A cow sitting a bicycle in a forest",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100357",
+    "path": "",
+    "caption": "A spoon eating a knife on a beach",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100358",
+    "path": "",
+    "caption": "A sports ball sitting a sheep on a beach",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100359",
+    "path": "",
+    "caption": "A sheep walking a umbrella on a beach",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100360",
+    "path": "",
+    "caption": "A sheep holding a bicycle near a building",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100361",
+    "path": "",
+    "caption": "A wine glass next to a bottle at a station",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100362",
+    "path": "",
+    "caption": "A skis holding a skis near a building",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100363",
+    "path": "",
+    "caption": "A bicycle playing a cup near water",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100364",
+    "path": "",
+    "caption": "A handbag riding a person in a living room",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100365",
+    "path": "",
+    "caption": "A bicycle holding a frisbee near water",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100366",
+    "path": "",
+    "caption": "A car playing a person in a living room",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100367",
+    "path": "",
+    "caption": "A bicycle next to a bus on a sidewalk",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100368",
+    "path": "",
+    "caption": "A knife next to a baseball bat near water",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100369",
+    "path": "",
+    "caption": "A car running a bottle on a sidewalk",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100370",
+    "path": "",
+    "caption": "A skis walking a cup in a forest",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100371",
+    "path": "",
+    "caption": "A person eating a bottle in a park",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100372",
+    "path": "",
+    "caption": "A bus walking a knife at a station",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100373",
+    "path": "",
+    "caption": "A car holding a backpack in a garden",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100374",
+    "path": "",
+    "caption": "A bottle next to a spoon in a forest",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100375",
+    "path": "",
+    "caption": "A cow playing a kite in a living room",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100376",
+    "path": "",
+    "caption": "A baseball bat next to a surfboard in a living room",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100377",
+    "path": "",
+    "caption": "A person eating a snowboard in a park",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100378",
+    "path": "",
+    "caption": "A train playing a baseball bat in a kitchen",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100379",
+    "path": "",
+    "caption": "A sheep next to a snowboard in a park",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100380",
+    "path": "",
+    "caption": "A sheep looking at a sports ball in a kitchen",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100381",
+    "path": "",
+    "caption": "A horse riding a bus in a kitchen",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100382",
+    "path": "",
+    "caption": "A baseball bat riding a snowboard near a building",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100383",
+    "path": "",
+    "caption": "A bus eating a tennis racket in a forest",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100384",
+    "path": "",
+    "caption": "A dog walking a kite in a kitchen",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100385",
+    "path": "",
+    "caption": "A zebra running a snowboard near water",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100386",
+    "path": "",
+    "caption": "A giraffe sitting a horse near a building",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100387",
+    "path": "",
+    "caption": "A suitcase riding a train in a forest",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100388",
+    "path": "",
+    "caption": "A spoon eating a car at a station",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100389",
+    "path": "",
+    "caption": "A horse walking a baseball bat near a building",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100390",
+    "path": "",
+    "caption": "A elephant holding a cow in a garden",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100391",
+    "path": "",
+    "caption": "A car running a surfboard in a living room",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100392",
+    "path": "",
+    "caption": "A bottle holding a suitcase in a garden",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100393",
+    "path": "",
+    "caption": "A giraffe holding a backpack in a kitchen",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100394",
+    "path": "",
+    "caption": "A bear next to a kite at a station",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100395",
+    "path": "",
+    "caption": "A bottle looking at a wine glass in a kitchen",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100396",
+    "path": "",
+    "caption": "A knife walking a spoon on a field",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100397",
+    "path": "",
+    "caption": "A bear standing a horse in a kitchen",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100398",
+    "path": "",
+    "caption": "A cup sitting a kite in a forest",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100399",
+    "path": "",
+    "caption": "A spoon sitting a bird in a kitchen",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100400",
+    "path": "",
+    "caption": "A cow riding a handbag near water",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100401",
+    "path": "",
+    "caption": "A sheep running a tennis racket in a park",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100402",
+    "path": "",
+    "caption": "A bottle looking at a sports ball on a street",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100403",
+    "path": "",
+    "caption": "A person eating a skateboard in a forest",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100404",
+    "path": "",
+    "caption": "A backpack eating a baseball bat in a park",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100405",
+    "path": "",
+    "caption": "A giraffe sitting a dog in a living room",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100406",
+    "path": "",
+    "caption": "A snowboard standing a sheep near a building",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100407",
+    "path": "",
+    "caption": "A suitcase walking a cup in a garden",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100408",
+    "path": "",
+    "caption": "A cup standing a bottle on a sidewalk",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100409",
+    "path": "",
+    "caption": "A bus running a dog in a kitchen",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100410",
+    "path": "",
+    "caption": "A sheep sitting a spoon on a field",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100411",
+    "path": "",
+    "caption": "A suitcase sitting a backpack in a kitchen",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100412",
+    "path": "",
+    "caption": "A person next to a backpack on a field",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100413",
+    "path": "",
+    "caption": "A wine glass holding a bicycle in a park",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100414",
+    "path": "",
+    "caption": "A dog running a knife on a sidewalk",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100415",
+    "path": "",
+    "caption": "A sheep standing a suitcase on a field",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100416",
+    "path": "",
+    "caption": "A sports ball looking at a backpack on a sidewalk",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100417",
+    "path": "",
+    "caption": "A elephant eating a bus in a forest",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100418",
+    "path": "",
+    "caption": "A bicycle riding a spoon in a forest",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100419",
+    "path": "",
+    "caption": "A knife holding a dog on a field",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100420",
+    "path": "",
+    "caption": "A car playing a baseball bat in a living room",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100421",
+    "path": "",
+    "caption": "A dog eating a sports ball in a park",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100422",
+    "path": "",
+    "caption": "A backpack eating a train on a sidewalk",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100423",
+    "path": "",
+    "caption": "A horse riding a car in a living room",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100424",
+    "path": "",
+    "caption": "A snowboard holding a elephant at a station",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100425",
+    "path": "",
+    "caption": "A cup sitting a elephant near a building",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100426",
+    "path": "",
+    "caption": "A wine glass running a car in a kitchen",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100427",
+    "path": "",
+    "caption": "A car eating a bear on a street",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100428",
+    "path": "",
+    "caption": "A frisbee riding a knife on a field",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100429",
+    "path": "",
+    "caption": "A cup running a umbrella on a street",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100430",
+    "path": "",
+    "caption": "A suitcase eating a sports ball on a street",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100431",
+    "path": "",
+    "caption": "A handbag looking at a bird in a living room",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100432",
+    "path": "",
+    "caption": "A skateboard eating a bottle on a field",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100433",
+    "path": "",
+    "caption": "A elephant holding a fork in a garden",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100434",
+    "path": "",
+    "caption": "A kite sitting a spoon in a kitchen",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100435",
+    "path": "",
+    "caption": "A tennis racket next to a bus on a field",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100436",
+    "path": "",
+    "caption": "A elephant sitting a suitcase in a living room",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100437",
+    "path": "",
+    "caption": "A bus playing a skis at a station",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100438",
+    "path": "",
+    "caption": "A frisbee looking at a bottle on a sidewalk",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100439",
+    "path": "",
+    "caption": "A cow holding a bottle in a living room",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100440",
+    "path": "",
+    "caption": "A car looking at a sports ball on a sidewalk",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100441",
+    "path": "",
+    "caption": "A handbag looking at a person in a park",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100442",
+    "path": "",
+    "caption": "A kite walking a knife in a garden",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100443",
+    "path": "",
+    "caption": "A dog holding a sheep on a sidewalk",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100444",
+    "path": "",
+    "caption": "A car running a horse in a park",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100445",
+    "path": "",
+    "caption": "A kite next to a kite on a field",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100446",
+    "path": "",
+    "caption": "A car holding a sheep at a station",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100447",
+    "path": "",
+    "caption": "A kite sitting a kite near water",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100448",
+    "path": "",
+    "caption": "A horse looking at a spoon in a living room",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100449",
+    "path": "",
+    "caption": "A skis sitting a handbag on a beach",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100450",
+    "path": "",
+    "caption": "A dog riding a elephant near water",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100451",
+    "path": "",
+    "caption": "A baseball bat playing a bird in a kitchen",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100452",
+    "path": "",
+    "caption": "A bottle playing a zebra on a sidewalk",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100453",
+    "path": "",
+    "caption": "A fork walking a bear in a park",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100454",
+    "path": "",
+    "caption": "A bicycle holding a bottle near a building",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100455",
+    "path": "",
+    "caption": "A bus eating a skis at a station",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100456",
+    "path": "",
+    "caption": "A bicycle walking a suitcase in a kitchen",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100457",
+    "path": "",
+    "caption": "A elephant running a kite in a forest",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100458",
+    "path": "",
+    "caption": "A bird running a bear near a building",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100459",
+    "path": "",
+    "caption": "A fork riding a dog in a living room",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100460",
+    "path": "",
+    "caption": "A kite walking a wine glass in a forest",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100461",
+    "path": "",
+    "caption": "A bus looking at a bicycle in a kitchen",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100462",
+    "path": "",
+    "caption": "A cup looking at a spoon on a field",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100463",
+    "path": "",
+    "caption": "A bicycle sitting a horse in a living room",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100464",
+    "path": "",
+    "caption": "A bottle riding a wine glass at a station",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100465",
+    "path": "",
+    "caption": "A sports ball next to a horse in a forest",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100466",
+    "path": "",
+    "caption": "A elephant riding a horse on a field",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100467",
+    "path": "",
+    "caption": "A person walking a bird in a forest",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100468",
+    "path": "",
+    "caption": "A frisbee eating a cow near a building",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100469",
+    "path": "",
+    "caption": "A giraffe playing a sports ball in a forest",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100470",
+    "path": "",
+    "caption": "A bus riding a umbrella on a beach",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100471",
+    "path": "",
+    "caption": "A handbag playing a horse at a station",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100472",
+    "path": "",
+    "caption": "A bus walking a knife at a station",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100473",
+    "path": "",
+    "caption": "A sheep next to a cow at a station",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100474",
+    "path": "",
+    "caption": "A snowboard sitting a car on a street",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100475",
+    "path": "",
+    "caption": "A car running a umbrella at a station",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100476",
+    "path": "",
+    "caption": "A surfboard riding a dog near water",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100477",
+    "path": "",
+    "caption": "A suitcase running a frisbee near water",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100478",
+    "path": "",
+    "caption": "A skateboard sitting a frisbee near water",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100479",
+    "path": "",
+    "caption": "A person looking at a cow near water",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100480",
+    "path": "",
+    "caption": "A cup eating a wine glass on a beach",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100481",
+    "path": "",
+    "caption": "A sheep eating a skis in a garden",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100482",
+    "path": "",
+    "caption": "A sports ball eating a skateboard near a building",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100483",
+    "path": "",
+    "caption": "A knife running a train in a living room",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100484",
+    "path": "",
+    "caption": "A wine glass holding a bird in a kitchen",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100485",
+    "path": "",
+    "caption": "A backpack standing a sheep in a park",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100486",
+    "path": "",
+    "caption": "A suitcase looking at a baseball bat on a sidewalk",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100487",
+    "path": "",
+    "caption": "A backpack next to a cow in a living room",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100488",
+    "path": "",
+    "caption": "A skis holding a bear near a building",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100489",
+    "path": "",
+    "caption": "A knife playing a wine glass near water",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100490",
+    "path": "",
+    "caption": "A fork looking at a dog in a park",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100491",
+    "path": "",
+    "caption": "A knife running a wine glass on a beach",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100492",
+    "path": "",
+    "caption": "A sports ball playing a person on a street",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100493",
+    "path": "",
+    "caption": "A fork riding a cup in a kitchen",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100494",
+    "path": "",
+    "caption": "A cat walking a train on a field",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100495",
+    "path": "",
+    "caption": "A umbrella eating a kite on a field",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100496",
+    "path": "",
+    "caption": "A car next to a skateboard on a street",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100497",
+    "path": "",
+    "caption": "A bear playing a kite in a forest",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100498",
+    "path": "",
+    "caption": "A bicycle holding a baseball bat in a forest",
+    "source": "coco_synthetic"
+  },
+  {
+    "image_id": "100499",
+    "path": "",
+    "caption": "A handbag sitting a bird near a building",
+    "source": "coco_synthetic"
+  }
+]
