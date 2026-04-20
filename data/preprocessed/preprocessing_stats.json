@@ -1,0 +1,30 @@
+{
+  "arxiv": {
+    "count": 200,
+    "avg_quality": 0.8372,
+    "avg_tokens": 175.3,
+    "min_tokens": 90,
+    "max_tokens": 290
+  },
+  "wikipedia": {
+    "count": 100,
+    "avg_quality": 0.8616,
+    "avg_tokens": 63.9,
+    "min_tokens": 15,
+    "max_tokens": 167
+  },
+  "coco": {
+    "count": 47,
+    "avg_quality": 0.7072,
+    "avg_tokens": 10.1,
+    "min_tokens": 10,
+    "max_tokens": 11
+  },
+  "mvtec": {
+    "count": 433,
+    "avg_quality": 0.8437,
+    "avg_tokens": 13.0,
+    "min_tokens": 13,
+    "max_tokens": 13
+  }
+}

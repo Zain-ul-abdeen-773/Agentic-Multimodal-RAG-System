@@ -108,14 +108,12 @@ def fetch_arxiv(
 
     for start in range(0, n_papers, batch_size):
         remaining = min(batch_size, n_papers - start)
-        params = urllib.parse.urlencode({
-            "search_query": cat_query,
-            "start": start,
-            "max_results": remaining,
-            "sortBy": "submittedDate",
-            "sortOrder": "descending",
-        })
-        url = f"{base_url}?{params}"
+        # Build URL manually — urlencode breaks the +OR+ syntax
+        url = (
+            f"{base_url}?search_query={cat_query}"
+            f"&start={start}&max_results={remaining}"
+            f"&sortBy=submittedDate&sortOrder=descending"
+        )
 
         for attempt in range(retries):
             try:
